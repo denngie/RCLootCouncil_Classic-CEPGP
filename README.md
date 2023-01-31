@@ -8,6 +8,7 @@ When you start a master looter session answer yes to use RC LC to handle loot an
 
 ## Known limitations
 * Reawarding an item to change the winner does not subtract the GP award to the previous winner
+* Switching back and forth between items in the voting frame results in the PR columning not auto updating after awarding an item and it switches to the next item (workaround: click the same item again)
 * Discount is not supported
 * If RC LC test mode is used it will not run the CEPGP add GP function
 * If one of the following responses is used it will not run the CEPGP add GP function:
