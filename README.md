@@ -1,10 +1,10 @@
-# RCLootCouncil Classic-CEPGP
+# RCLootCouncil Classic - CEPGP
 A module adding CEPGP support for RCLootCouncil Classic
 
 How does it work? It inserts an extra column, showing the PR value of each member, in the voting frame. When you assign an item the calculcated GP value is added to the winner. The module reuses CEPGP's own functions for these calculations. The button/response text is forwarded to CEPGP and visible in CEPGP traffic. All loot will be visible in both RC LC history and CEPGP traffic.
 
 ## How to use
-When you start a master looter session answer yes to use RC LC to handle loot and no to CEPGP. Master looter must have this addon, everyone in your loot council are optional depending on if they wanna see the PR column. Raid members only needs the standard RC LC Classic addon.
+When you start a master looter session answer yes to use RC LC to handle loot and no to CEPGP. Master looter must have this addon, everyone in your loot council are optional depending on if they wanna see the PR column. Raid members only needs the standard RC LC Classic addon but are probably gonna want CEPGP addon as well.
 
 ## Known limitations
 * Reawarding an item to change the winner does not subtract the GP award to the previous winner
