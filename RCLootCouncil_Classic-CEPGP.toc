@@ -6,9 +6,7 @@
 ## Dependencies: RCLootCouncil_Classic, CEPGP
 
 ## X-Category: Guild
-## X-License: GNU General Public License version 3 (GPLv3)
-## X-Website: TBD
-## X-Github: TBD
-## X-Curse_Project-ID: TBD
+## X-License: MIT
+## X-Curse_Project-ID: 820481
 
 votingFrameCEPGP.lua
