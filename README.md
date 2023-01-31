@@ -11,11 +11,11 @@ When you start a master looter session answer yes to use RC LC to handle loot an
 * Discount is not supported
 * If RC LC test mode is used it will not run the CEPGP add GP function
 * If one of the following responses is used it will not run the CEPGP add GP function:
-..* Disenchant
-..* Banking
-..* Free
-..* Pass
-..* Autopass
+    * Disenchant
+    * Banking
+    * Free
+    * Pass
+    * Autopass
 * If a button/response contains the word free the GP value is reduced to zero
 
 ## Credits
