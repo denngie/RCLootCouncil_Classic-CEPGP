@@ -1,0 +1,14 @@
+## Interface: 30401
+## Title: RCLootCouncil Classic - CEPGP
+## Version: 0.0.1-wotlk
+## Author: denngie
+## Notes: A module adding CEPGP support for RCLootCouncil Classic
+## Dependencies: RCLootCouncil_Classic, CEPGP
+
+## X-Category: Guild
+## X-License: GNU General Public License version 3 (GPLv3)
+## X-Website: TBD
+## X-Github: TBD
+## X-Curse_Project-ID: TBD
+
+votingFrameCEPGP.lua
