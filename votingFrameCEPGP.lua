@@ -55,7 +55,7 @@ end
 function RCVFCEPGP:RCMLAwardSuccess(message, session, winner, status, link, responseText)
 	local player = Ambiguate(winner, "short")
 	local itemID = CEPGP_getItemID(link)
-	local ignore_responses = { Disenchant=true, Banking=true, Free=true, Pass=true, Autopass=true }
+	local ignore_responses = { Disenchant=true, Banking=true, Free=true, Pass=true, Autopass=true, Awarded=true }
 
 	if not ignore_responses[responseText] and not addon.testMode then
 		local amount = CEPGP_calcGP(_, 1, itemID)
